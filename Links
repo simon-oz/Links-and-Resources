@@ -13,6 +13,17 @@ https://dennybritz.com/blog/deep-learning-most-important-ideas/
 wencolani Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE 
 https://github.com/wencolani
 
+# SELF-SUPERVISED LEARNING
+# Awesome Self-Supervised Learning
+https://github.com/jason718/awesome-self-supervised-learning
+
+Self-Supervised Representation Learning
+https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+
+Self Supervised Representation Learning in NLP 
+https://amitness.com/2020/05/self-supervised-learning-nlp/
+
+
 # Pytorch
 https://pytorch.org/
 aws Deep Learning with PyTorch
@@ -34,6 +45,10 @@ https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html
 ONNX Runtime: a one-stop shop for machine learning inferencing
 https://github.com/Simon-ozgit/Links-and-Resources/edit/main/Links
 
+# Companies
+ facebookresearch / ParlAI: https://github.com/facebookresearch/ParlAI
+ 
+
  microsoft / onnxruntime 
 https://github.com/microsoft/onnxruntime/blob/master/docs/python/notebooks/onnx-inference-byoc-gpu-cpu-aks.ipynb
 
@@ -49,4 +64,34 @@ https://github.com/microsoft/onnxruntime/blob/master/docs/python/notebooks/onnx-
  Deep Natural Language Processing for Search Systems (sigir 2019 tutorial) 
  https://www.slideshare.net/WeiweiGuo2/deep-natural-language-processing-for-search-systems-sigir-2019-tutorial?from_action=save
  
- 
+ # Conferences
+ICLR
+https://iclr.cc/virtual_2020/poster_SJg7KhVKPH.html
+
+
+# Data Science Interview Questions and Answers
+Data Science Interview Questions and Answers: https://intellipaat.com/blog/interview-question/data-science-interview-questions/
+
+100+ Data Science Interview Questions You Must Prepare for 2020
+https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
+
+OVER 100 Data Scientist Interview Questions and Answers!
+https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
+
+100 Data Science Interview Questions and Answers (General) for 2018
+https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
+
+Top 50 Data Science Interview Questions and Answers 
+https://www.guru99.com/data-science-interview-questions.html
+
+
+120 Data Science Interview Questions
+https://svrtechnologies.com/120-data-science-interview-questions-pdf/
+
+
+
+
+
+
+
+
