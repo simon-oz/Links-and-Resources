@@ -1,2 +1,52 @@
+# Blogs or github pages
+
 Guy Lebanon, Engineering Director, Google, http://theanalysisofdata.com/
 Denny Britz, wildml.com and dennybritz.com, https://github.com/dennybritz
+
+Jay Alammar
+Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Deep Learning's Most Important Ideas - A Brief Historical Review
+https://dennybritz.com/blog/deep-learning-most-important-ideas/
+
+wencolani Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE 
+https://github.com/wencolani
+
+# Pytorch
+https://pytorch.org/
+aws Deep Learning with PyTorch
+https://aws.amazon.com/pytorch/
+
+PyTorch Tutorial: How to Develop Deep Learning Models with Python
+https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+
+
+PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd
+https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
+
+# ONNX
+https://onnx.ai/get-started.html
+
+(optional) Exporting a Model from PyTorch to ONNX and Running it using ONNX Runtime
+https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html
+
+ONNX Runtime: a one-stop shop for machine learning inferencing
+https://github.com/Simon-ozgit/Links-and-Resources/edit/main/Links
+
+ microsoft / onnxruntime 
+https://github.com/microsoft/onnxruntime/blob/master/docs/python/notebooks/onnx-inference-byoc-gpu-cpu-aks.ipynb
+
+# Ray-project
+ ray-project / tutorial 
+ https://github.com/ray-project/tutorial
+ https://github.com/anyscale/academy
+ 
+ # Attention, Transformer and Pretrained Language Models related
+ ATPapers https://github.com/ZhengZixiang/ATPapers
+ 
+ # IR related
+ Deep Natural Language Processing for Search Systems (sigir 2019 tutorial) 
+ https://www.slideshare.net/WeiweiGuo2/deep-natural-language-processing-for-search-systems-sigir-2019-tutorial?from_action=save
+ 
+ 
