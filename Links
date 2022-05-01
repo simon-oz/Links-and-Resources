@@ -32,7 +32,6 @@ https://awesomeopensource.com/projects/automl
 awesome-object-detection
 https://github.com/amusi/awesome-object-detection
 
-
 https://github.com/handong1587/handong1587.github.io
 
 
@@ -352,3 +351,12 @@ https://medium.com/dataman-in-ai/explain-your-model-with-lime-5a1a5867b423
 
 Tutorial on Skip-gram model
 https://aegis4048.github.io/optimize_computational_efficiency_of_skip-gram_with_negative_sampling
+
+A Mathematical Framework for Transformer Circuits
+In-context Learning and Induction Heads
+https://transformer-circuits.pub
+https://transformer-circuits.pub/2021/framework/index.html
+https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
+
+
+
