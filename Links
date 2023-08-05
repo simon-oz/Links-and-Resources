@@ -383,4 +383,390 @@ Evan Miller
 https://www.evanmiller.org/attention-is-off-by-one.html
 https://github.com/evanmiller/LLM-Reading-List
 
+ACL Conferences and links:
+https://aclanthology.org/
 
+NLP READING GROUP
+https://wiki.clsp.jhu.edu/index.php/NLP_Reading_Group
+
+
+## Links about Auto-ML
+Awesome-AutoML-Papers
+https://github.com/hibayesian/awesome-automl-papers
+
+Awesome-AutoML
+https://github.com/windmaple/awesome-AutoML
+
+awesome-automl
+https://github.com/ChanChiChoi/awesome-automl
+
+Awesome production machine learning👏 include explanation packages
+https://github.com/EthicalML/awesome-production-machine-learning
+
+Awesome MLOps 👍
+https://github.com/kelvins/awesome-mlops
+
+Awesome-AutoML
+https://github.com/maximliu/AutoML-awesome-AutoML
+
+The Top 108 Automl Open Source Projects 👍-useful resources
+https://awesomeopensource.com/projects/automl
+
+Github Star-ranking
+https://gitstar-ranking.com/
+
+
+awesome-object-detection
+https://github.com/amusi/awesome-object-detection
+
+https://github.com/handong1587/handong1587.github.io
+
+
+LITERATURE ON NEURAL ARCHITECTURE SEARCH
+https://www.ml4aad.org/automl/literature-on-neural-architecture-search/
+
+Awesome Semantic Segmentation
+https://github.com/mrgloom/awesome-semantic-segmentation
+
+awesome-AutoML-and-Lightweight-Models
+https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models
+
+
+
+
+
+# Blogs or github pages
+
+Guy Lebanon, Engineering Director, Google, http://theanalysisofdata.com/
+Denny Britz, wildml.com and dennybritz.com, https://github.com/dennybritz
+
+Tim Dettmers - Phd on machine learning, GUP, TPT et al
+https://timdettmers.com/2018/11/26/phd-applications/
+
+Jay Alammar
+Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Deep Learning's Most Important Ideas - A Brief Historical Review
+https://dennybritz.com/blog/deep-learning-most-important-ideas/
+
+wencolani Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE 
+https://github.com/wencolani
+
+# SELF-SUPERVISED LEARNING
+# Awesome Self-Supervised Learning
+https://github.com/jason718/awesome-self-supervised-learning
+
+Self-Supervised Representation Learning
+https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+
+Self Supervised Representation Learning in NLP 
+https://amitness.com/2020/05/self-supervised-learning-nlp/
+
+42 papers
+https://42papers.com/
+
+# Pytorch
+https://pytorch.org/
+aws Deep Learning with PyTorch
+https://aws.amazon.com/pytorch/
+
+PyTorch Tutorial: How to Develop Deep Learning Models with Python
+https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+
+
+PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd
+https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
+
+# ONNX
+https://onnx.ai/get-started.html
+
+(optional) Exporting a Model from PyTorch to ONNX and Running it using ONNX Runtime
+https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html
+
+ONNX Runtime: a one-stop shop for machine learning inferencing
+https://github.com/Simon-ozgit/Links-and-Resources/edit/main/Links
+
+# Companies
+ facebookresearch / ParlAI: https://github.com/facebookresearch/ParlAI
+ 
+
+ microsoft / onnxruntime 
+https://github.com/microsoft/onnxruntime/blob/master/docs/python/notebooks/onnx-inference-byoc-gpu-cpu-aks.ipynb
+
+# Ray-project
+ ray-project / tutorial 
+ https://github.com/ray-project/tutorial
+ https://github.com/anyscale/academy
+ 
+ # Attention, Transformer and Pretrained Language Models related
+ ATPapers https://github.com/ZhengZixiang/ATPapers
+ 
+ # IR related
+ Deep Natural Language Processing for Search Systems (sigir 2019 tutorial) 
+ https://www.slideshare.net/WeiweiGuo2/deep-natural-language-processing-for-search-systems-sigir-2019-tutorial?from_action=save
+ 
+ # Conferences
+ICLR
+https://iclr.cc/virtual_2020/poster_SJg7KhVKPH.html
+
+
+# Data Science Interview Questions and Answers
+Data Science Interview Questions and Answers: https://intellipaat.com/blog/interview-question/data-science-interview-questions/
+
+100+ Data Science Interview Questions You Must Prepare for 2020
+https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
+
+OVER 100 Data Scientist Interview Questions and Answers!
+https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
+
+100 Data Science Interview Questions and Answers (General) for 2018
+https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
+
+Top 50 Data Science Interview Questions and Answers 
+https://www.guru99.com/data-science-interview-questions.html
+
+
+120 Data Science Interview Questions
+https://svrtechnologies.com/120-data-science-interview-questions-pdf/
+
+
+# Tech concepts
+
+Algorithm vs Model
+
+Difference Between Algorithm and Model in Machine Learning
+
+https://www.lynda.com/Python-tutorials/Defining-model-vs-algorithm/806167/2809618-4.html
+
+https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/
+https://aidevelopmenthub.com/difference-between-algorithm-and-model-in-machine-learning/
+
+https://www.quora.com/What-is-the-difference-between-an-algorithm-and-a-model-in-machine-learning
+
+
+sebastianruder/NLP-progress
+Repository to track the progress in Natural Language Processing (NLP), including the datasets 
+and the current state-of-the-art for the most common NLP tasks.
+https://github.com/sebastianruder/NLP-progress
+
+
+NLP Resources
+https://github.com/astorfi/Deep-Learning-NLP
+
+Jacob Eisenstein's NLP Book 2018-11-13
+https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes
+
+https://towardsdatascience.com/
+
+Analygtics Vidhya
+https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/
+
+
+Most Active Data Scientists, Free Books, Notebooks & Tutorials on Github
+https://www.analyticsvidhya.com/blog/2016/09/most-active-data-scientists-free-books-notebooks-tutorials-on-github/
+
+
+https://en.wikipedia.org/wiki/List_of_newspapers_in_Australia
+
+UFLDL Tutorial Welcome to the Deep Learning Tutorial! 
+http://ufldl.stanford.edu/tutorial/
+
+
+NLP ARCHITECT
+http://nlp_architect.nervanasys.com/term_set_expansion.html
+https://github.com/NervanaSystems/nlp-architect
+
+
+Kaggle
+https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
+
+Deeplearning.net
+http://deeplearning.net/tutorial/
+
+Awesome ai books
+https://github.com/zslucky/awesome-AI-books
+
+
+http://deeplearning.net/tutorial/  -- Michael Nielsen / Dec 2017 
+http://neuralnetworksanddeeplearning.com/
+
+Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. 
+http://cs231n.github.io/
+
+
+https://github.com/astorfi/Deep-Learning-NLP
+
+
+Over 150 of the Best Machine Learning, NLP, and Python Tutorials Ive Found
+https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+
+Deep learning resources
+https://people.eng.unimelb.edu.au/zr/deeplearning.htm
+
+
+13 Deep Learning Frameworks for Natural Language Processing in Python
+https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
+
+Five books every data scientist should read that are not about data science
+https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f
+
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247497009&idx=1&sn=ca8b7613ebc67a4f7210cceb5234fc8b&chksm=e99ec6c8dee94fde4976a9b973691115f4c44621481b1cb936c7061fb7d0d4f5ab7266f682ff&scene=21#wechat_redirect
+
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82111718
+
+Making Image Classification Simple With Spark Deep Learning
+https://medium.com/linagora-engineering/making-image-classification-simple-with-spark-deep-learning-f654a8b876b8
+
+Elephas: Distributed Deep Learning with Keras & Spark
+http://maxpumperla.com/elephas/
+
+Apache Spark in Python: Beginner's Guide
+https://www.datacamp.com/community/tutorials/apache-spark-python
+
+JAIR: Journal of Artificial Intelligence Research
+https://www.jair.org/index.php/jair
+
+Abstract Algebra
+http://www-users.math.umn.edu/~garrett/m/algebra
+
+NLP
+https://mp.weixin.qq.com/s/4jHYCKZqBoA0R6516ceWgA
+
+
+Singualr value decomposition
+https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
+https://twitter.com/jeremyjkun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+awesome-deep-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+
+ endymecy / awesome-deeplearning-resources 
+https://github.com/endymecy/awesome-deeplearning-resources
+
+Awesome Deep Learning Resources
+https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+
+awesome-machine-learning/books.md
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+
+brianspiering/awesome-dl4nlp
+https://github.com/brianspiering/awesome-dl4nlp
+
+ChristosChristofidis / awesome-deep-learning 
+https://github.com/ChristosChristofidis/awesome-deep-learning
+
+ terryum /
+awesome-deep-learning-papers Top 20 Recent Research Papers on Machine Learning and Deep Learning 
+https://github.com/terryum/awesome-deep-learning-papers
+
+
+https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
+
+ sbrugman / deep-learning-papers 
+https://github.com/sbrugman/deep-learning-papers
+
+ endymecy / awesome-deeplearning-resources 
+ https://github.com/endymecy/awesome-deeplearning-resources
+ 
+  NiuTrans / ABigSurvey 
+  https://github.com/NiuTrans/ABigSurvey
+  
+   Jiankai-Sun / paper-survey 
+ https://github.com/Jiankai-Sun/paper-survey
+ 
+  shervinmin / awesome-deep-learning-survey-papers 
+ https://github.com/shervinmin/awesome-deep-learning-survey-papers
+ 
+ 
+
+deep-learning-papers 
+https://github.com/topics/deep-learning-papers
+
+ donutloop / machine-learning-research-papers 
+https://github.com/donutloop/machine-learning-research-papers
+
+
+Understanding self-supervised and contrastive learning with "Bootstrap Your Own Latent" (BYOL)
+https://untitled-ai.github.io/understanding-self-supervised-contrastive-learning.html
+
+Attention Mechanism
+https://blog.floydhub.com/attention-mechanism/
+
+Attention is all you need
+https://becominghuman.ai/attention-is-all-you-need-16bf481d8b5c
+
+Paper Dissected: “Attention is All You Need” Explained
+https://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+
+Attention? Attention!
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+Mathematics, Statistics, Probability & Probabilistic programming
+https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/details/maths-stats-probability.md
+
+
+ SFFAI-AIKT / AIKT-Natural_Language_Processing 
+https://github.com/SFFAI-AIKT/AIKT-Natural_Language_Processing
+
+attention from Lily Weng
+https://lilianweng.github.io/posts/2018-06-24-attention/
+https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/
+
+
+
+Awesome-AutoML-Papers
+https://github.com/hibayesian/awesome-automl-papers
+
+open-source conversational AI library built on TensorFlow, Keras and PyTorch.
+https://github.com/deepmipt/DeepPavlov
+
+NCRF++: An Open-source Neural Sequence Labeling Toolkit
+https://github.com/jiesutd/NCRFpp
+
+*** UvA Deep Learning Tutorials
+https://github.com/phlippe/uvadlc_notebooks
+
+PromptSource - a toolkit for collecting and applying prompts to NLP datasets.
+https://github.com/bigscience-workshop/promptsource/
+
+Byte Pair Encoding and Data Structures
+https://guillaume-be.github.io/2021-09-16/byte_pair_encoding
+
+model explanability
+https://medium.com/dataman-in-ai/explain-your-model-with-lime-5a1a5867b423
+
+Tutorial on Skip-gram model
+https://aegis4048.github.io/optimize_computational_efficiency_of_skip-gram_with_negative_sampling
+
+A Mathematical Framework for Transformer Circuits
+In-context Learning and Induction Heads
+https://transformer-circuits.pub
+https://transformer-circuits.pub/2021/framework/index.html
+https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
+
+heuristic optimization
+https://dev.heuristiclab.com/trac.fcgi/wiki
+http://dev.heuristiclab.com/trac.fcgi/wiki/Documentation/Reference/Test%20Functions
+
+CV learning website (Chinese)
+https://github.com/datawhalechina/dive-into-cv-pytorch
+
+Time serices
+https://github.com/qingsongedu/awesome-AI-for-time-series-papers
+
+Numerical Optimization: Understanding L-BFGS
+https://aria42.com/blog/2014/12/understanding-lbfgs
+
+Self-Supervised Speech pre-training and Representation Learning - s3prl
+https://github.com/s3prl/s3prl/tree/master/src
+
+awesome-huge-models
+https://github.com/zhengzangw/awesome-huge-models
+
+Evan Miller
+https://www.evanmiller.org/attention-is-off-by-one.html
+https://github.com/evanmiller/LLM-Reading-List
+
+Lighting.AI
+https://github.com/Lightning-AI/lightning
